@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	zkvs "github.com/kakaisaname/props/zk"
 	"github.com/samuel/go-zookeeper/zk"
-	zkvs "github.com/tietang/props/zk"
 	"time"
 )
 

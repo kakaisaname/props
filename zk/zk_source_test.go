@@ -2,10 +2,10 @@ package zk
 
 import (
 	"fmt"
+	"github.com/kakaisaname/props/kvs"
 	"github.com/samuel/go-zookeeper/zk"
 	"github.com/sirupsen/logrus"
 	. "github.com/smartystreets/goconvey/convey"
-	"github.com/tietang/props/kvs"
 	"path"
 	"strings"
 	"testing"

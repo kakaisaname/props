@@ -1,8 +1,8 @@
 package etcd
 
 import (
+	"github.com/kakaisaname/props/kvs"
 	log "github.com/sirupsen/logrus"
-	"github.com/tietang/props/kvs"
 	"net/http"
 	"time"
 )

@@ -1,4 +1,4 @@
-module github.com/tietang/props
+module github.com/kakaisaname/props
 
 go 1.12
 
@@ -47,12 +47,8 @@ require (
 	github.com/jonboulle/clockwork v0.1.0 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
-	github.com/mattn/go-colorable v0.1.4 // indirect
-	github.com/mattn/go-isatty v0.0.10 // indirect
-	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
 	github.com/pascaldekloe/goe v0.1.0 // indirect
 	github.com/prometheus/common v0.7.0
-	github.com/prometheus/tsdb v0.7.1 // indirect
 	github.com/samuel/go-zookeeper v0.0.0-20180130194729-c4fab1ac1bec
 	github.com/sirupsen/logrus v1.4.2
 	github.com/smartystreets/assertions v0.0.0-20180301161246-7678a5452ebe // indirect

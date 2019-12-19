@@ -2,8 +2,8 @@ package props
 
 import (
 	"errors"
-	"github.com/tietang/props/ini"
-	"github.com/tietang/props/kvs"
+	"github.com/kakaisaname/props/ini"
+	"github.com/kakaisaname/props/kvs"
 	"path/filepath"
 	"strings"
 )

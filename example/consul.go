@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/hashicorp/consul/api"
+	"github.com/kakaisaname/props/consul"
+	"github.com/kakaisaname/props/kvs"
 	"github.com/prometheus/common/log"
-	"github.com/tietang/props/consul"
-	"github.com/tietang/props/kvs"
 	"time"
 )
 

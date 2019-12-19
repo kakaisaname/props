@@ -2,8 +2,8 @@ package yam
 
 import (
 	"fmt"
+	"github.com/kakaisaname/props/kvs"
 	log "github.com/sirupsen/logrus"
-	"github.com/tietang/props/kvs"
 	"gopkg.in/yaml.v2"
 	"io"
 	"io/ioutil"

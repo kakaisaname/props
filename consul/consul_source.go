@@ -2,10 +2,10 @@ package consul
 
 import (
 	"github.com/hashicorp/consul/api"
+	"github.com/kakaisaname/props/ini"
+	"github.com/kakaisaname/props/kvs"
+	"github.com/kakaisaname/props/yam"
 	log "github.com/sirupsen/logrus"
-	"github.com/tietang/props/ini"
-	"github.com/tietang/props/kvs"
-	"github.com/tietang/props/yam"
 	"path"
 	"strings"
 	"time"

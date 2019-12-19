@@ -2,8 +2,8 @@ package ini
 
 import (
 	"github.com/go-ini/ini"
+	"github.com/kakaisaname/props/kvs"
 	log "github.com/sirupsen/logrus"
-	"github.com/tietang/props/kvs"
 	"io"
 	"os"
 	"strings"

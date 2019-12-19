@@ -1,8 +1,8 @@
 package yam
 
 import (
+	"github.com/kakaisaname/props/kvs"
 	log "github.com/sirupsen/logrus"
-	"github.com/tietang/props/kvs"
 	"io"
 	"os"
 	"path"

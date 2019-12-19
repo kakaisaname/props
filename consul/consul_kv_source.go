@@ -2,8 +2,8 @@ package consul
 
 import (
 	"github.com/hashicorp/consul/api"
+	"github.com/kakaisaname/props/kvs"
 	log "github.com/sirupsen/logrus"
-	"github.com/tietang/props/kvs"
 	"strings"
 	"time"
 )

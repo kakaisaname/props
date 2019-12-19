@@ -1,8 +1,8 @@
 package ini
 
 import (
+	"github.com/kakaisaname/props/kvs"
 	"github.com/sirupsen/logrus"
-	"github.com/tietang/props/kvs"
 	"io/ioutil"
 	"strings"
 )

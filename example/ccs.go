@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/tietang/props/kvs"
+	"github.com/kakaisaname/props/kvs"
 )
 
 func main() {

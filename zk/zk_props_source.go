@@ -1,9 +1,9 @@
 package zk
 
 import (
+	"github.com/kakaisaname/props/kvs"
 	"github.com/samuel/go-zookeeper/zk"
 	log "github.com/sirupsen/logrus"
-	"github.com/tietang/props/kvs"
 	"path"
 	"strings"
 )

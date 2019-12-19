@@ -1,11 +1,11 @@
 package zk
 
 import (
+	"github.com/kakaisaname/props/ini"
+	"github.com/kakaisaname/props/kvs"
+	"github.com/kakaisaname/props/yam"
 	"github.com/prometheus/common/log"
 	"github.com/samuel/go-zookeeper/zk"
-	"github.com/tietang/props/ini"
-	"github.com/tietang/props/kvs"
-	"github.com/tietang/props/yam"
 	"path"
 	"strings"
 )

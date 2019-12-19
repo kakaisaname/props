@@ -2,9 +2,9 @@ package consul
 
 import (
 	"github.com/hashicorp/consul/api"
+	"github.com/kakaisaname/props/kvs"
 	"github.com/sirupsen/logrus"
 	. "github.com/smartystreets/goconvey/convey"
-	"github.com/tietang/props/kvs"
 	"path"
 	"strconv"
 	"strings"

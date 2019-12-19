@@ -1,8 +1,8 @@
 package ini
 
 import (
+	"github.com/kakaisaname/props/kvs"
 	. "github.com/smartystreets/goconvey/convey"
-	"github.com/tietang/props/kvs"
 	"testing"
 )
 
